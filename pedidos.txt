@@ -1,1 +1,5 @@
+﻿<<<<<<< HEAD
 ﻿pedido por delivery
+=======
+pedido n� 55
+>>>>>>> Meu Primeiro pedido de Pizza por delivery
